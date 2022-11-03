@@ -1,0 +1,9 @@
+{
+    "discord.enabled": false,
+    "files.associations": {
+        "defs.h": "c",
+        "__locale": "c",
+        "cstring": "c",
+        "typeinfo": "c"
+    }
+}
