@@ -1,0 +1,8 @@
+{
+    "discord.enabled": true,
+    "files.associations": {
+        "t06defs.h": "c",
+        "random": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
